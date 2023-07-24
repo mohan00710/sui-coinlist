@@ -155,8 +155,8 @@
   {
     "coinType": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
     "decimals": 6,
-    "name": "USD Coin",
-    "symbol": "USDC",
+    "name": "USD Coin (Solana)",
+    "symbol": "USDCso",
     "description": "",
     "iconUrl": "https://strapi.scand.app/uploads/usdc_019d7ef24b.png",
     "id": "0x39047ec989791d939efee4c9b9dbc6885c5d12a5aaacf44152319b2289ea9b9e"
