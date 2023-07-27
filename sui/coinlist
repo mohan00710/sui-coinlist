@@ -137,8 +137,6 @@
     "iconUrl": "https://photos.pinksale.finance/file/pinksale-logo-upload/1683222398484-e5071bfa43f0848c21571df60229ca89.png",
     "id": "0xee47c0517d3a17cc30719a130a814aeda5baf4fac4b938d217fef7ffa7443e55"
   },
-
-
   {
     "coinType": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN",
     "decimals": 6,
@@ -259,5 +257,5 @@
     "description": "",
     "iconUrl": "https://strapi.scand.app/uploads/Eth_Logo_392bc9cc42.png",
     "id": "0xbfcaf4b726ca7ae523289e03a2a82e892145b1a285cb3588c2e1de724d1bf6eb"
-  },
+  }
 ]
